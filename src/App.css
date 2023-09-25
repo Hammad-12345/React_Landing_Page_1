@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Lexend:wght@200;300;400;500;600;700;800;900&family=Nanum+Brush+Script&family=Playfair+Display:wght@700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500;1,600&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Reem+Kufi:wght@400;500;600;700&display=swap');
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family:Poppins;
+}
+/* .how_it_work_row
+{
+  row-gap: 30px;
+}
+@media screen and (max-width:767px) {
+.how_it_work_row    
+{
+    row-gap: 5px;
+}
+} */
